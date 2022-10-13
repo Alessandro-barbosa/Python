@@ -1,2 +1,1 @@
-# Python
-Game guess number
+# Game guess number
